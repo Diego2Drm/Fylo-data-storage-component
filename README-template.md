@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Diego2Drm/Fylo-data-storage-component)
-- Live Site URL: [Add live site URL here](https://diego2drm.github.io/Fylo-data-storage-component/)
+- Solution URL: [solution URL](https://github.com/Diego2Drm/Fylo-data-storage-component)
+- Live Site URL: [live site URL](https://diego2drm.github.io/Fylo-data-storage-component/)
 
 ## My process
 
