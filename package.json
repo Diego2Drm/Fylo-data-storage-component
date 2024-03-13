@@ -1,0 +1,14 @@
+{
+  "name": "fylo-data-storage",
+  "version": "1.0.0",
+  "description": "![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "author": "Diego Ramirez",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
