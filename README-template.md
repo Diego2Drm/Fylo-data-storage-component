@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Diego2Drm/Fylo-data-storage-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -63,8 +63,7 @@ Make a triangle with the help of the pseudo-element after
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Diego Ramírez](https://github.com/Diego2Drm)
+- Frontend Mentor - [@Diego2Drm](https://www.frontendmentor.io/profile/Diego2Drm)
+- Facebok - [@Diego2RMZD](https://www.facebook.com/Diego2RMZD)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
